@@ -53,8 +53,8 @@ Plot the error for each iteration
 Print the accuracy
 
 ## PROGRAM:
-### Developed By: Akash A
-### Register Number: 212221230003
+### Developed By: Prasanth E
+### Register Number: 212221233002
 ```python
 import numpy as np 
 import pandas as pd 
